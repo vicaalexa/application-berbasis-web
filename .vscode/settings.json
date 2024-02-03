@@ -1,0 +1,33 @@
+{
+  "editor.renderWhitespace": true,[
+  "editor.wordWrap": "off",
+  "files.trimTrailingWhitespace": false,
+  "files.trimFinalNewlines": false,
+  "files.autoSave": "off",
+  "editor.renderWhitespace": "none",
+  "editor.formatOnSave": true,
+  "editor.fontSize": 14,
+  "editor.find.seedSearchStringFromSelection": "selection",
+  "editor.find.loop": true,
+  "editor.find.cursorMoveOnType": true,
+  "editor.find.autoFindInSelection": "never",
+  "editor.find.addExtraSpaceOnTop": true,
+  "editor.trimAutoWhitespace": true,
+  "editor.stickyScroll.defaultModel": "outlineModel",
+  "editor.semanticHighlighting.enabled": "configuredByTheme",
+  "editor.selectionHighlight": true,
+  "editor.renderControlCharacters": true,
+  "editor.experimentalWhitespaceRendering": "svg",
+  "editor.renderFinalNewline": "on",
+  "editor.renderLineHighlight": "line",
+  "editor.renderLineHighlightOnlyWhenFocus": false,
+  "markdown.extension.tableFormatter.normalizeIndentation": true,
+  "markdown.extension.list.indentationSize": "adaptive",
+  "editor.autoIndent": "full",
+  "editor.guides.indentation": true,
+  "editor.guides.highlightActiveIndentation": true,
+  "indentRainbow.excludedLanguages": [
+    "plaintext"
+  ],
+  "indentRainbow.colorOnWhiteSpaceOnly": true
+}
