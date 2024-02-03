@@ -1,6 +1,4 @@
-{
-  "editor.renderWhitespace": true,[
-  "editor.wordWrap": "off",
+{  "editor.wordWrap": "off",
   "files.trimTrailingWhitespace": false,
   "files.trimFinalNewlines": false,
   "files.autoSave": "off",
